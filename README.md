@@ -18,6 +18,8 @@ It is a crucial for analysts and decision-makers within retail organizations to 
 
 ## Project-Overview
 The columns are: Invoice_id, Branch, City, Customer, Gender, Product_line, Unit price, Quantity, Tax 5%, Total, Date, Time, Cogs, Gross margin, Gross income, Rating 
+![Screenshot 2025-02-19 132543](https://github.com/user-attachments/assets/cd0a75a9-96b6-4937-b55f-10900c959078)
+
 
 ## Project-Objectives
 ## Generic Question
